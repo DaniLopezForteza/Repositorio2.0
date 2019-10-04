@@ -10,7 +10,7 @@ EXERCICIS Unitats de mesura:
 2) A un USB de 16GB quants arxius de video de 500MB hi caben? 
  Primer: Tot en les mateixes unitats      Segon: Factor conversió:  16GB  x  1 arxiu / 0.5GB
  16GB y 0,5GB
-2 videos = 1GB
+ 2 videos = 1GB
 32 videos = 16GB
 
 3) Quantes fotos de 325 KB caben a un CD (700MB) 
@@ -19,13 +19,18 @@ EXERCICIS Unitats de mesura:
 Y quedan libres 0,275MB
 
 5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
-2.000.000=0,25MB
+2.000.000b=0,25MB
 700MB/0,25MB= 2.800fotos
 
 6) Un sistema informàtic de 80GB de disc dur, està ocupat en un 20%. 
 Quants CDs necessitem per fer una copia de seguretat?. Quants DVDs necessitaria?
-80Gb * 1000 => 80000 / 650 => 123 CD
-80 GB / 4,6 GB => 17 Gb  5 DVD
+80GB=80.000MB
+20% de 80.000MB =16.000MB
+23 CDs y sobrian unos MB
+
+80GB=80.000MB
+20% de 80.000MB =16.000MB
+4 DVDs y sobrarian unos MB
  
 7) Un arxiu DIVX ocupa 5,6GB . 
    Quants CD necessito per guardar-lo? Quants Blu-ray?
